@@ -10,19 +10,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "-": "^0.0.1",
     "axios": "^1.6.7",
     "notistack": "^3.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.12.0",
-    "react-router-dom": "^6.21.3"
+    "react-router-dom": "^6.21.3",
+    "save-dev": "^0.0.1-security"
   },
   "devDependencies": {
     "@swc/cli": "^0.3.9",
     "@swc/core": "^1.4.1",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
-    "@vitejs/plugin-react": "^4.0.1",
+    "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "^10.4.14",
     "eslint": "^8.44.0",
     "eslint-plugin-react": "^7.32.2",
